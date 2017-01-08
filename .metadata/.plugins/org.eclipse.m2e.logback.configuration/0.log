@@ -1,0 +1,35 @@
+2017-01-08 14:26:10,413 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AngularJS_Frontend:AngularJS_Frontend:0.0.1-SNAPSHOT @ /Users/tcs/TestRepository/AngularJS_Frontend/pom.xml.
+2017-01-08 14:26:11,559 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:11,574 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:11,577 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:11,578 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:11,745 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sss.lbwebservices:Spring_Backend:0.0.1-SNAPSHOT @ /Users/tcs/TestRepository/Spring_Backend/pom.xml.
+2017-01-08 14:26:12,081 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:12,082 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:12,083 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:12,084 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:13,067 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: AngularJS_Frontend:AngularJS_Frontend:0.0.1-SNAPSHOT @ /Users/tcs/TestRepository/AngularJS_Frontend/pom.xml.
+2017-01-08 14:26:21,882 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:21,884 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:21,886 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:21,886 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:22,020 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:22,022 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:22,023 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:22,024 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:31,511 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for AngularJS_Frontend
+2017-01-08 14:26:31,522 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Spring_Backend
+2017-01-08 14:26:31,657 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:31,658 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:31,659 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:31,660 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:31,660 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of AngularJS_Frontend
+2017-01-08 14:26:31,661 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for AngularJS_Frontend
+2017-01-08 14:26:31,668 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:31,731 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:31,731 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:31,733 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-08 14:26:31,734 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-08 14:26:31,734 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Spring_Backend
+2017-01-08 14:26:31,734 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Spring_Backend
+2017-01-08 14:26:31,738 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
